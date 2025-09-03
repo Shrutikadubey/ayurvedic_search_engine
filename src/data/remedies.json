@@ -1,0 +1,5 @@
+[
+  { "disease": "Cold", "symptoms": ["cough", "sneezing"], "medicine": "Tulsi Tea" },
+  { "disease": "Headache", "symptoms": ["migraine", "pain"], "medicine": "Brahmi Oil" },
+  { "disease": "Fever", "symptoms": ["high temperature"], "medicine": "Giloy Juice" }
+]
