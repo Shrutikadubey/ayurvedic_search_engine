@@ -137,13 +137,6 @@ autocomplete behavior, and responsive UI design.
 
 ---
 
-<h2>📄 License</h2>
-
-<p>
-This project is available under the <b>MIT License</b>.
-</p>
-
-<hr>
 
 <p align="center">
   <b>👩‍💻 Shrutika Dubey</b>
