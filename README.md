@@ -10,6 +10,21 @@
 </p>
 
 ---
+<h2>📸 Application Preview</h2>
+
+<p align="center">
+  <img 
+    src="src/ayurvedic-remedy-finder.png" 
+    alt="Ayurvedic Remedy Finder"
+    width="800"
+  >
+</p>
+
+<p align="center">
+  <i>Search Ayurvedic remedies using symptoms or diseases.</i>
+</p>
+
+---
 
 <h2>📌 About the Project</h2>
 
